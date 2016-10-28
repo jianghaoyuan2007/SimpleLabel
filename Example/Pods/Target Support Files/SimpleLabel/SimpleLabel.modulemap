@@ -1,0 +1,6 @@
+framework module SimpleLabel {
+  umbrella header "SimpleLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - SimpleLabel (0.1.0)
+
+DEPENDENCIES:
+  - SimpleLabel (from `../`)
+
+EXTERNAL SOURCES:
+  SimpleLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SimpleLabel: 61b87b32e8ed563ec3b86c7aea503eef97eb249f
+
+PODFILE CHECKSUM: 3c96f23eac4c6ff6116a85e47319f0f4d22c77ae
+
+COCOAPODS: 1.1.1

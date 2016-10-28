@@ -1,0 +1,6 @@
+framework module Pods_SimpleLabel_Tests {
+  umbrella header "Pods-SimpleLabel_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
