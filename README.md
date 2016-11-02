@@ -1,6 +1,6 @@
 # SimpleLabel
 
-[![CI Status](http://img.shields.io/travis/Haoyuan Jiang/SimpleLabel.svg?style=flat)](https://travis-ci.org/Haoyuan Jiang/SimpleLabel)
+[![CI Status](https://api.travis-ci.org/jianghaoyuan2007/SimpleLabel.svg?branch=master)](https://travis-ci.org/jianghaoyuan2007/SimpleLabel)
 [![Version](https://img.shields.io/cocoapods/v/SimpleLabel.svg?style=flat)](http://cocoapods.org/pods/SimpleLabel)
 [![License](https://img.shields.io/cocoapods/l/SimpleLabel.svg?style=flat)](http://cocoapods.org/pods/SimpleLabel)
 [![Platform](https://img.shields.io/cocoapods/p/SimpleLabel.svg?style=flat)](http://cocoapods.org/pods/SimpleLabel)
